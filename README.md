@@ -19,17 +19,16 @@ The objective of this project is to develop a mobile application that will assis
   -Can help them communicate with other students
 
 **Features and functionalities of the proposed mobile application.**
-
-  -Register : For the user to register to the app to use it.
-  -Login : For the user to use the app, the user needs to login. The details will be used to access the database of the specific user.
-  -Note taking : for user to take note
+  - Register : For the user to register to the app to use it.
+  - Login : For the user to use the app, the user needs to login. The details will be used to access the database of the specific user.
+  - Note taking : for user to take note
     - Input is text based
     - Show date created, last edited
-  -Tasks - Show task to-do, Show Task done
-  -Calendar Reminder
-  -Remind the student when the deadline of the task on the calendar
-  -Chat
-  -Chat with other user
+  - Tasks - Show task to-do, Show Task done
+  - Calendar Reminder
+  - Remind the student when the deadline of the task on the calendar
+  - Chat
+  - Chat with other user
 
 **Properly define the screen navigation (routing) and components (presentational and container) implementation with a diagram.**
 
