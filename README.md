@@ -24,11 +24,12 @@ The objective of this project is to develop a mobile application that will assis
   - Note taking : for user to take note
     - Input is text based
     - Show date created, last edited
-  - Tasks - Show task to-do, Show Task done
+  - Tasks
+    - Show task to-do, Show Task done
   - Calendar Reminder
-  - Remind the student when the deadline of the task on the calendar
+    - Remind the student when the deadline of the task on the calendar
   - Chat
-  - Chat with other user
+    - Chat with other user
 
 **Properly define the screen navigation (routing) and components (presentational and container) implementation with a diagram.**
 
