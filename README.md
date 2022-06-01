@@ -14,9 +14,9 @@ The aim of this mobile application project is to create a platform that will ass
 **The objective of the proposed mobile application.**
 
 The objective of this project is to develop a mobile application that will assist students in their academic activities. The objectives are outlined in bullet points below.
-  -To help them in taking note
-  -To help them in creating tasks
-  -Can help them communicate with other students
+  - To help them in taking note
+  - To help them in creating tasks
+  - Can help them communicate with other students
 
 **Features and functionalities of the proposed mobile application.**
   - Register : For the user to register to the app to use it.
