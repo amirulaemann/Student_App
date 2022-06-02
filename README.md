@@ -29,7 +29,7 @@ The objective of this project is to develop a mobile application that will assis
   - Calendar Reminder
     - Remind the student when the deadline of the task on the calendar
   - Chat
-    - Chat with other user
+    - Chat with other users
 
 **Properly define the screen navigation (routing) and components (presentational and container) implementation with a diagram.**
 
