@@ -7,6 +7,9 @@
   - Muhammad Naim Imran bin Mohd Nizar 1917173
   - Herda Binti Borhan 1821690
 
+**Youtube Presentation link for Proposal**:
+https://youtu.be/_piaKP5C7xg
+
 **Introduction of the proposed mobile application.**
 
 The aim of this mobile application project is to create a platform that will assist students. They have the ability to take notes, make tasks, and communicate with other students. In order to utilize the mobile application, users must first register. If the user modifies the note, the application is created with the date created and last edited. The task is completed using a checkbox that allows the user to mark it as completed. It likewise has two main parts: to-do and completed. Calendar reminders are also included in the application. Aside from that, the app's chat features allow users to engage with one another.
