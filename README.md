@@ -43,5 +43,12 @@ The objective of this project is to develop a mobile application that will assis
 
 ![Untitled (1)](https://user-images.githubusercontent.com/61687500/171247448-0f572df0-3363-4053-b7e1-f4f6fc75a2ab.png)
 
+**Group Work Distribution**
+- Muhammad Amirul Aiman Bin Yusoff 18265573 (Login & Register)
+- Ahmad Irfaan Helmi Bin Jaffar 1828459 (Tasks)
+- Mohammad Aiman Bin Mohamad Ares 1817363 (Chat)
+- Muhammad Naim Imran bin Mohd Nizar 1917173 (Note Taking)
+- Herda Binti Borhan 1821690 (Calender)
+
 **References.**
 Flutter documentation. (2022). Flutter.dev. https://docs.flutter.dev/
