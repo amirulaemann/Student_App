@@ -61,3 +61,35 @@ Chat
 
 **References**
 Flutter documentation. (2022). Flutter.dev. https://docs.flutter.dev/
+
+**Application Screenshot**
+
+Sign in & sign up
+
+![signup](https://user-images.githubusercontent.com/102285518/176724891-ab002035-f77f-40f4-bcc1-27b36659c265.PNG)
+![signin](https://user-images.githubusercontent.com/102285518/176724901-82b4386f-b805-4205-ad17-1ccd4eb2cf5a.PNG)
+
+Homepage
+
+![homepage](https://user-images.githubusercontent.com/102285518/176724946-722b2b26-9eda-4c7b-ae06-1444e493b572.PNG)
+
+Chat
+
+![chathomepage](https://user-images.githubusercontent.com/102285518/176724977-1c945209-77c3-4bba-9301-c5dabd385f08.PNG)
+![chatroompage](https://user-images.githubusercontent.com/102285518/176724993-a2edf4ef-16b6-46bc-9f57-b7ee6718e3db.PNG)
+![chathomepage_1](https://user-images.githubusercontent.com/102285518/176724999-c42dbd37-58e6-4f51-aae5-ee7dd6abb1a9.PNG)
+
+Note
+
+![notehomepage](https://user-images.githubusercontent.com/102285518/176725025-e3400f97-a1e0-4f52-a39e-d1303cc99060.PNG)
+![noteaddpage](https://user-images.githubusercontent.com/102285518/176725044-2804880b-47e9-48ca-8e47-ef25732748f9.PNG)
+
+Task
+
+![taskhomepage](https://user-images.githubusercontent.com/102285518/176725070-0acae68e-ce2e-401b-a36b-bd7e0820a720.PNG)
+![taskaddpage](https://user-images.githubusercontent.com/102285518/176725085-af59c0ae-8e3a-4c23-be33-a3c2053b64fe.PNG)
+
+
+
+
+
