@@ -57,8 +57,6 @@ Chat
 - Muhammad Naim Imran bin Mohd Nizar 1917173 (Chat)
 - Herda Binti Borhan 1821690 (Calender)
 
-**Interface of The Application**
-
 **References**
 Flutter documentation. (2022). Flutter.dev. https://docs.flutter.dev/
 
