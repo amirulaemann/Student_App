@@ -43,11 +43,11 @@ Chat
 **Properly define the screen navigation (routing) and components (presentational and container) implementation with a diagram.**
 
 
-![2](https://user-images.githubusercontent.com/61687500/176721519-5de85515-f326-4fe1-9dc4-f8424f99a915.jpeg)
+![2](https://user-images.githubusercontent.com/61687500/171247291-936c20b2-88f6-481c-9164-27bdef1ac29a.png)
 
 **A sequence diagram to represent the interaction of the proposed mobile application.**
 
-![1](https://user-images.githubusercontent.com/61687500/176721675-b652d13b-ea6c-4b3f-9c6f-e4dd2d55a39d.jpeg)
+![1](https://user-images.githubusercontent.com/61687500/171247448-0f572df0-3363-4053-b7e1-f4f6fc75a2ab.png)
 
 **Group Work Distribution**
 
